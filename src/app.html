@@ -2,11 +2,25 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<!-- <link rel="icon" href="%sveltekit.assets%/favicon.png" /> -->
 		<meta
 			name="viewport"
 			content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
 		/>
+
+		<!-- Tab Icon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="static/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="static/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="static/favicon-16x16.png" />
+		<!-- <link rel="manifest" href="static/site.webmanifest" /> -->
+
+		<!-- FACEBOOK Meta Tags -->
+		<meta property="og:title" content="Patronizer" />
+		<meta property="og:description" content="Gano ka kapatronizer?" />
+		<meta property="og:image" content="URL_TO_YOUR_THUMBNAIL_IMAGE" />
+		<meta property="og:url" content="https://patronizer.vercel.app/" />
+		<meta property="og:type" content="website" />
+
 		<link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
 		%sveltekit.head%
 		<style type="text/css" media="screen">
@@ -23,4 +37,5 @@
 		<div style="display: contents">%sveltekit.body%</div>
 	</body>
 	<script src="https://unpkg.com/magic-viewbox"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"></script>
 </html>
