@@ -9,7 +9,7 @@
 </script>
 
 <div class="flex">
-	<Button class="mx-auto" color="blue" on:click={shareOnFacebook}
+	<Button class=" fixed bottom-0 mb-5 ml-5" color="blue" on:click={shareOnFacebook}
 		><FacebookSolid size="lg" color="blue" class="mr-2 bg-white p-1 rounded-md" />Share to facebook</Button
 	>
 </div>

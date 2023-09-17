@@ -204,9 +204,20 @@
 		</div>
 	</div>
 
+	<div class="flex flex-col mt-5 px-5">
+		<span class="flex items-center text-lg font-medium mx-auto"
+			>Diin ka paka pamatron yana nga tuig?</span
+		>
+		<span class="flex items-center text-center text-sm font-small mx-auto"
+			>Yana la nga tuig kay kun all-time, maaram ak halos bug-os nga Northern Samar naka pamatron ka
+			na.</span
+		>
+	</div>
+
 	<div class="flex h-4/6 content-center">
 		<svg id="svg-container" class="h-full w-full" />
 	</div>
+
 	<FbShare />
 
 	<Modal bind:open={$openModal} size="xs" autoclose outsideclose>
