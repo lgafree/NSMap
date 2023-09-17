@@ -207,7 +207,7 @@
 				</div>
 				<div class="grid grid-cols-4">
 					<div class="col-span-1">
-						<div class="rounded-md bg-green-700 w-7 h-5" />
+						<div class="rounded-md border-2 border-black bg-green-700 w-7 h-5" />
 					</div>
 					<div class="col-span-3">
 						<span class="flex items-center font-medium">Patronizer</span>
@@ -215,7 +215,7 @@
 				</div>
 				<div class="grid grid-cols-4">
 					<div class="col-span-1">
-						<div class="rounded-md bg-blue-700 w-7 h-5" />
+						<div class="rounded-md border-2 border-black bg-blue-700 w-7 h-5" />
 					</div>
 					<div class="col-span-3">
 						<span class="flex items-center font-medium">Matindi</span>
@@ -223,7 +223,7 @@
 				</div>
 				<div class="grid grid-cols-4">
 					<div class="col-span-1">
-						<div class="rounded-md bg-red-700 w-7 h-5" />
+						<div class="rounded-md border-2 border-black bg-red-700 w-7 h-5" />
 					</div>
 					<div class="col-span-3">
 						<span class="flex items-center font-medium">Kasiod man</span>
