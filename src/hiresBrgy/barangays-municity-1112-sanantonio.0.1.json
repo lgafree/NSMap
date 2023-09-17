@@ -1,0 +1,559 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.27041625976574,
+                            12.392410278320426
+                        ],
+                        [
+                            124.28411102294922,
+                            12.393710136413574
+                        ],
+                        [
+                            124.28560638427734,
+                            12.384920120239258
+                        ],
+                        [
+                            124.2824935913086,
+                            12.3718004226684
+                        ],
+                        [
+                            124.27065277099621,
+                            12.375579833984432
+                        ],
+                        [
+                            124.27041625976574,
+                            12.392410278320426
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29186,
+                "NAME_3": "Burabod",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.24774169921886,
+                            12.460000038146916
+                        ],
+                        [
+                            124.24993896484375,
+                            12.44248008728033
+                        ],
+                        [
+                            124.25726318359386,
+                            12.425769805908203
+                        ],
+                        [
+                            124.25454711914062,
+                            12.419830322265682
+                        ],
+                        [
+                            124.24651336669922,
+                            12.418919563293457
+                        ],
+                        [
+                            124.24279022216808,
+                            12.430569648742676
+                        ],
+                        [
+                            124.23914337158214,
+                            12.451629638671875
+                        ],
+                        [
+                            124.23990631103527,
+                            12.45563983917242
+                        ],
+                        [
+                            124.24292755126976,
+                            12.458649635315055
+                        ],
+                        [
+                            124.24774169921886,
+                            12.460000038146916
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29187,
+                "NAME_3": "Dalupirit",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.25662994384766,
+                            12.384849548339844
+                        ],
+                        [
+                            124.27041625976574,
+                            12.392410278320426
+                        ],
+                        [
+                            124.27065277099621,
+                            12.375579833984432
+                        ],
+                        [
+                            124.26344299316406,
+                            12.371769905090446
+                        ],
+                        [
+                            124.25662994384766,
+                            12.384849548339844
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29188,
+                "NAME_3": "Manraya",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.2824935913086,
+                            12.3718004226684
+                        ],
+                        [
+                            124.27812194824219,
+                            12.363450050354118
+                        ],
+                        [
+                            124.27284240722656,
+                            12.36168003082281
+                        ],
+                        [
+                            124.26891326904308,
+                            12.363789558410588
+                        ],
+                        [
+                            124.26344299316406,
+                            12.371769905090446
+                        ],
+                        [
+                            124.27065277099621,
+                            12.375579833984432
+                        ],
+                        [
+                            124.2824935913086,
+                            12.3718004226684
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29189,
+                "NAME_3": "Pilar",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.26751708984375,
+                            12.399120330810604
+                        ],
+                        [
+                            124.27041625976574,
+                            12.392410278320426
+                        ],
+                        [
+                            124.25662994384766,
+                            12.384849548339844
+                        ],
+                        [
+                            124.25353240966797,
+                            12.39480018615717
+                        ],
+                        [
+                            124.26751708984375,
+                            12.399120330810604
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29190,
+                "NAME_3": "Rizal",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.24651336669922,
+                            12.418919563293457
+                        ],
+                        [
+                            124.25454711914062,
+                            12.419830322265682
+                        ],
+                        [
+                            124.26126098632824,
+                            12.418880462646428
+                        ],
+                        [
+                            124.2625503540039,
+                            12.41485977172863
+                        ],
+                        [
+                            124.26531982421886,
+                            12.406200408935604
+                        ],
+                        [
+                            124.26751708984375,
+                            12.399120330810604
+                        ],
+                        [
+                            124.25353240966797,
+                            12.39480018615717
+                        ],
+                        [
+                            124.24783325195312,
+                            12.409469604492188
+                        ],
+                        [
+                            124.24651336669922,
+                            12.418919563293457
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29191,
+                "NAME_3": "San Nicolas",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.24774169921886,
+                            12.460000038146916
+                        ],
+                        [
+                            124.25350189208984,
+                            12.456230163574219
+                        ],
+                        [
+                            124.2651596069336,
+                            12.438400268554801
+                        ],
+                        [
+                            124.25726318359386,
+                            12.425769805908203
+                        ],
+                        [
+                            124.24993896484375,
+                            12.44248008728033
+                        ],
+                        [
+                            124.24774169921886,
+                            12.460000038146916
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29192,
+                "NAME_3": "Vinisitahan",
+                "NL_NAME_3": null,
+                "VARNAME_3": null,
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.2651596069336,
+                            12.438400268554801
+                        ],
+                        [
+                            124.27333068847668,
+                            12.423890113830623
+                        ],
+                        [
+                            124.27993011474632,
+                            12.413999557495117
+                        ],
+                        [
+                            124.27932739257812,
+                            12.410099983215446
+                        ],
+                        [
+                            124.2625503540039,
+                            12.41485977172863
+                        ],
+                        [
+                            124.26126098632824,
+                            12.418880462646428
+                        ],
+                        [
+                            124.25454711914062,
+                            12.419830322265682
+                        ],
+                        [
+                            124.25726318359386,
+                            12.425769805908203
+                        ],
+                        [
+                            124.2651596069336,
+                            12.438400268554801
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29193,
+                "NAME_3": "Ward I",
+                "NL_NAME_3": null,
+                "VARNAME_3": "Poblacion",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.27932739257812,
+                            12.410099983215446
+                        ],
+                        [
+                            124.27913665771484,
+                            12.407019615173397
+                        ],
+                        [
+                            124.27812957763672,
+                            12.405870437622013
+                        ],
+                        [
+                            124.26531982421886,
+                            12.406200408935604
+                        ],
+                        [
+                            124.2625503540039,
+                            12.41485977172863
+                        ],
+                        [
+                            124.27932739257812,
+                            12.410099983215446
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29194,
+                "NAME_3": "Ward II",
+                "NL_NAME_3": null,
+                "VARNAME_3": "Poblacion",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            124.27913665771484,
+                            12.407019615173397
+                        ],
+                        [
+                            124.28089904785168,
+                            12.399129867553711
+                        ],
+                        [
+                            124.28411102294922,
+                            12.393710136413574
+                        ],
+                        [
+                            124.27041625976574,
+                            12.392410278320426
+                        ],
+                        [
+                            124.26751708984375,
+                            12.399120330810604
+                        ],
+                        [
+                            124.26531982421886,
+                            12.406200408935604
+                        ],
+                        [
+                            124.27812957763672,
+                            12.405870437622013
+                        ],
+                        [
+                            124.27913665771484,
+                            12.407019615173397
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "ID_0": 177,
+                "ISO": "PHL",
+                "NAME_0": "Philippines",
+                "ID_1": 54,
+                "NAME_1": "Northern Samar",
+                "ID_2": 1112,
+                "NAME_2": "San Antonio",
+                "ID_3": 29195,
+                "NAME_3": "Ward III",
+                "NL_NAME_3": null,
+                "VARNAME_3": "Poblacion",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "PROVINCE": "Northern Samar",
+                "REGION": "Eastern Visayas (Region VIII)"
+            }
+        }
+    ]
+}

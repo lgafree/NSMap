@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+		/>
+		<link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+		%sveltekit.head%
+		<style type="text/css" media="screen">
+			body,
+			html {
+				height: 100%;
+				margin: 0;
+				overflow-x: hidden;
+				background-color: rgb(157, 195, 251);
+			}
+		</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+	<script src="https://unpkg.com/magic-viewbox"></script>
+</html>
