@@ -28,8 +28,12 @@
 
 	//listen to local variables change
 	$: {
-		brgySelectOpen = !municipalitySelectOpen
-		municipalitySelectOpen = !brgySelectOpen
+		if (municipalitySelectOpen) {
+			brgySelectOpen = false
+		}
+		if (brgySelectOpen) {
+			municipalitySelectOpen = false
+		}
 	}
 
 	function checkOpenModalChange() {
