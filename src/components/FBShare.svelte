@@ -15,6 +15,7 @@
 			if (ogImageMeta) {
 				ogImageMeta.setAttribute('content', screenshotDataUrl)
 			}
+			console.log(ogImageMeta)
 		})
 
 		const navUrl =
