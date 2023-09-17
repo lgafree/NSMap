@@ -209,8 +209,8 @@
 			>Diin ka paka pamatron yana nga tuig?</span
 		>
 		<span class="flex items-center text-center text-sm font-small mx-auto"
-			>Yana la nga tuig kay kun all-time, maaram ak halos bug-os nga Northern Samar naka pamatron ka
-			na.</span
+			>Yana la nga tuig. Kay kun all-time, maaram ak halos bug-os nga Northern Samar naka pamatron
+			ka na.</span
 		>
 	</div>
 
