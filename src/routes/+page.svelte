@@ -1,7 +1,7 @@
 <script>
 	import '../app.css'
 	import municipalities from '../municipalityBrgys.json'
-	import FBShare from '../components/FBShare.svelte'
+
 	import { handlePinch, endPinch } from '$lib/zoomandpan.js'
 
 	import { onMount } from 'svelte'
@@ -15,7 +15,11 @@
 		selectedBrgyName
 	} from '../d3/d3.js'
 	import FbShare from '../components/FBShare.svelte'
+	// Vercel Analytics
+	import { dev } from '$app/environment'
+	import { inject } from '@vercel/analytics'
 
+	inject({ mode: dev ? 'development' : 'production' })
 	let brgyTotal = 0
 	let patronizerLevel = 0
 	let modalPatronizerStatusColor
