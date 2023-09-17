@@ -26,6 +26,12 @@
 	//on openModal, remove bounce color
 	$: $openModal, checkOpenModalChange()
 
+	//listen to local variables change
+	$: {
+		brgySelectOpen = !municipalitySelectOpen
+		municipalitySelectOpen = !brgySelectOpen
+	}
+
 	function checkOpenModalChange() {
 		if ($openModal) {
 			modalPatronizerStatusColor = ''
@@ -118,7 +124,6 @@
 				'-'
 			)
 		)
-		console.log($selectedBrgy)
 	}
 
 	//Zoom and Pan SVG
