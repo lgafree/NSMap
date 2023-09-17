@@ -191,7 +191,15 @@
 			<div class="lg:w-64 h-auto bg-white mt-1 p-3 rounded-xl border-2 border-black">
 				<div class="grid grid-cols-4">
 					<div class="col-span-1">
-						<div class="rounded-md bg-purple-700 w-7 h-5" />
+						<div class="rounded-md border-2 border-black bg-white w-7 h-5" />
+					</div>
+					<div class="col-span-3">
+						<span class="flex items-center font-medium">Waray</span>
+					</div>
+				</div>
+				<div class="grid grid-cols-4">
+					<div class="col-span-1">
+						<div class="rounded-md border-2 border-black bg-purple-700 w-7 h-5" />
 					</div>
 					<div class="col-span-3">
 						<span class="flex items-center font-medium">Maluya</span>
