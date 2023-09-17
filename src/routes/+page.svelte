@@ -2,13 +2,7 @@
 	import '../app.css'
 	import municipalities from '../municipalityBrgys.json'
 	import FBShare from '../components/FBShare.svelte'
-	import {
-		handlePinch,
-		endPinch,
-		startPanning,
-		performPanning,
-		stopPanning
-	} from '$lib/zoomandpan.js'
+	import { handlePinch, endPinch } from '$lib/zoomandpan.js'
 
 	import { onMount } from 'svelte'
 	import { Button, Checkbox, Dropdown, DropdownItem, Modal, P } from 'flowbite-svelte'
@@ -132,17 +126,6 @@
 		processJSONFiles()
 		const svg = document.getElementById('svg-container')
 
-		// Add a mousedown/touchstart event listener to start panning
-
-		svg.addEventListener('touchstart', startPanning)
-
-		// Add mousemove/touchmove event listener to perform panning
-
-		svg.addEventListener('touchmove', performPanning)
-
-		// Add mouseup/touchend event listener to stop panning
-
-		svg.addEventListener('touchend', stopPanning)
 		// Add event listeners for pinch-to-zoom
 		svg.addEventListener('touchstart', handlePinch)
 		svg.addEventListener('touchmove', handlePinch)
