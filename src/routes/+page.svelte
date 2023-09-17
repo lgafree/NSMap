@@ -22,6 +22,7 @@
 	let brgys = []
 	let municipalitySelectOpen = false
 	let brgySelectOpen = false
+	let selectedBrgys = {}
 
 	//on openModal, remove bounce color
 	$: $openModal, checkOpenModalChange()
@@ -38,14 +39,26 @@
 
 	function checkOpenModalChange() {
 		if ($openModal) {
-			modalPatronizerStatusColor = ''
-		} else {
-			patronizerLevel += brgyTotal
-			if (brgyTotal > 0) {
-				document.getElementById($selectedBrgy).style.fill = modalPatronizerStatusColor
-			}
-
+			modalPatronizerStatusColor = 'white'
 			brgyTotal = 0
+		} else {
+			patronizerLevel = 0
+
+			setSelectedBrgys()
+
+			Object.entries(selectedBrgys).forEach((value, key) => {
+				document.getElementById(value[0]).style.fill = value[1].fill
+				patronizerLevel += value[1].points
+			})
+		}
+	}
+
+	function setSelectedBrgys() {
+		if ($selectedBrgy) {
+			selectedBrgys[$selectedBrgy] = {
+				fill: modalPatronizerStatusColor,
+				points: brgyTotal
+			}
 		}
 	}
 
